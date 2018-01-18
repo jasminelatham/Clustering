@@ -1,4 +1,5 @@
 # Customer-Types
 Comparing implementation techniques on Clustering: 
-Kmeans++
-Hierarchical Agglomerative Clusterings
+1) Kmeans++
+
+2) Hierarchical Agglomerative Clusterings
